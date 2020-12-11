@@ -25,3 +25,6 @@ train_and_plot(
     iterations=50,
     trainings=100,
     validations=1000)
+
+#Alpha: De leerfactor van het proces, het geeft aan hoe groot de stappen zijn in de dataset
+#epsilon: Hoe vaak het programma deze stappen probeert 
